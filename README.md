@@ -49,11 +49,16 @@ Ao final deste desafio, fui capaz de:
 
 Este repositório contém:
 
-- `README.md` detalhado com todas as etapas realizadas    
-- Descrição da experiência prática com Azure AI Search
+- `README.md` principal com visão geral do desafio e objetivos
+- - Três pastas principais documentando cada etapa prática:
+  - `01-ingestao-conteudo`: Ingestão de documentos no Azure Blob Storage
+  - `02-criacao-indices`: Criação do índice e enriquecimento com Azure AI
+  - `03-exploracao-dados`: Testes e consultas sobre os dados indexados
 
 ## 📎 Recursos Úteis
 
 - [Explore an Azure AI Search index (UI)](https://learn.microsoft.com/en-us/training/modules/explore-azure-ai-search/)
+
+---
 
 > ⚠️ **Aviso de Segurança:** Durante os testes, o acesso anônimo ao container do Azure Blob foi habilitado para facilitar os testes. Essa prática **não deve ser aplicada em ambientes de produção**.
