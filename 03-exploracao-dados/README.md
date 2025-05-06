@@ -22,13 +22,16 @@ Com o índice pronto, comecei a explorar os dados utilizando a interface de cons
 ### 4. Busca por Sentimento
 
 - Filtro: `sentiment eq 'positive'`
-- Utilizado para encontrar apenas avaliações com sentimento positivo
+- Utilizado para encontrar apenas avaliações com sentimento positivo.
 
-### 💡 Insights Obtidos
+---
+
+
+## 💡 Insights Obtidos
 - A análise de sentimentos ajudou a separar feedbacks úteis automaticamente.
 - Os filtros por autor e avaliação permitem construir dashboards prontos para insights de marketing.
 - Mesmo com dados simulados, o uso do Azure AI Search mostra grande potencial para análise de grandes volumes de texto.
 
-### 🧩 Próximos Passos
+## 🧩 Próximos Passos
 - Criar uma interface web simples conectada à API.
 - Adicionar mais documentos reais para testes com maior volume.
